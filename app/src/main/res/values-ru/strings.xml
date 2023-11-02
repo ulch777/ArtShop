@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Приємні привітання</string>
+
+    <string name="facebook_app_id">2796308360387158</string>
+    <string name="fb_login_protocol_scheme">fb2796308360387158</string>
+    <string name="ad_id">ca-app-pub-2428511311048721~2017458718</string>
+
+    <string name="nav_item_favorites">Обране</string>
+    <string name="nav_item_categories">Всі категорії</string>
+    <string name="nav_item_calendar">Календар свят</string>
+    <string name="nav_item_rate">Оцінити</string>
+    <string name="nav_item_settings">Налаштування</string>
+    <string name="nav_item_exit">Вихід</string>
+
+    <string name="today_holiday">Сьогодні свято</string>
+    <string name="greeting">Привітання</string>
+    <string name="image_downloaded">Зображення завантажено</string>
+    <string name="image_not_downloaded">Зображення не завантажено</string>
+    <string name="no_thanks">Ні, дякую</string>
+    <string name="remind_later">Нагадати пізніше</string>
+    <string name="rate_us">Оцінити</string>
+    <string name="if_you_like">Якщо Вам подобається користуватися додатком</string>
+    <string name="please_rate_us">, будь ласка, знайдіть хвилинку, щоб оцінити його. \nДякуємо за Вашу підтримку!</string>
+    <string name="retry">Повторити спробу</string>
+    <string name="fetching_data_from_server">Отримання даних із сервера</string>
+
+    <string name="sunday">Неділя</string>
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П\'ятниця</string>
+    <string name="saturday">Субота</string>
+
+    <string name="go_web">Перейти на сайт</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="exit_question">Бажаєте вийти?</string>
+    <string name="more_cards"><![CDATA[Більше листівок >>>]]></string>
+    <string name="facebook_not_installed">Додаток Facebook не встановлено</string>
+    <string name="share_image_via">Поділитися зображенням через %1$s</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="media_store_error">Не вдалося створити новий запис MediaStore</string>
+    <string name="save_bitmap_error">Не вдалося зберегти зображення</string>
+    <string name="not_installed">не встановлено</string>
+
+    <string name="english">Англійська</string>
+    <string name="ukrainian">Українська</string>
+    <string name="nav_item_invite">Запросити друга</string>
+    <string name="invite_friend_via">Запросити друга через %1$s</string>
+
+</resources>

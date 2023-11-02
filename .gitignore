@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/build/generated/ksp/release/java/
+/app/build/generated/source/buildConfig/release/
+/app/build/generated/ap_generated_sources/release/out/
+/app/build/generated/source/kapt/release/
+/app/build/generated/ksp/release/kotlin/
+/app/build/generated/source/kaptKotlin/release/
+/app/build/generated/crashlytics/res/release/
+/app/build/generated/res/resValues/release/

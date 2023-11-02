@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#356859</color>
+<!--    <color name="colorPrimaryLight">#B9E4C9</color>-->
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="white">#FFFFFF</color>
+<!--    <color name="colorSecondary">#FD5523</color>-->
+<!--    <color name="colorSecondaryLight">#FFFBE6</color>-->
+<!--    <color name="colorSecondaryLightTransparent">#80FFFBE6</color>-->
+<!--    <color name="colorAccent">#FD5523</color>-->
+<!--    <color name="colorSelectedItem">#26A69A</color>-->
+<!--    <color name="transparent">#00000000</color>-->
+<!--    <color name="white">#FFFFFF</color>-->
+<!--    <color name="star_yellow">#ffd300</color>-->
+<!--    <color name="star_stroke">#d46010</color>-->
+<!--    <color name="star_background">#bab6b2</color>-->
+<!--    <color name="black">#000000</color>-->
+<!--    <color name="progressBackground">#80000000</color>-->
+</resources>
