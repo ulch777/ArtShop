@@ -3,7 +3,7 @@
 width="200" hspace="10" vspace="10">
 A free application that allows you to share cards and greetings with your loved ones through various messengers such as Facebook, Twitter, Whatsapp, Viber, Telegram, and Pinterest.
 
-Greeting cards app is available on the Google Play
+The greeting cards app is available on the Google Play
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=ua.ulch.artshop">
@@ -24,10 +24,10 @@ Join us in simplifying the art of expressing sentiments with our Greetings Cards
 
 ## Features
 
-The android app lets you:
+The Android app lets you:
 - Browse convenient lists of categories and subcategories
 - Download images to your device
-- Share images via Facebook, Twitter, Whatsapp, Viber, Telegaram and Pinterest
+- Share images via Facebook, Twitter, Whatsapp, Viber, Telegram and Pinterest
 - Have access to the holiday calendar
 - Be aware of what holiday is today
 - Change application localization
@@ -35,6 +35,18 @@ The android app lets you:
 
 ## Screenshots
 
+[<img src="/readme/p-1.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-1.jpg)
+[<img src="/readme/p-2.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-2.jpg)
+[<img src="/readme/p-3.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-3.jpg)
+[<img src="/readme/p-4.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-4.jpg)
+[<img src="/readme/p-5.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-5.jpg)
+[<img src="/readme/p-6.jpg"
+width="200" hspace="10" vspace="10">](/readme/p-6.jpg)
 
 ## Technologies
 
