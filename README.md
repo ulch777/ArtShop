@@ -1,6 +1,13 @@
 # Greeting cards - Android App
 <img src="/readme/greetings_logo.jpg" align="left"
 width="200" hspace="10" vspace="10">
+
+Thank you for exploring our Greeting Cards Android App project! We appreciate your interest and welcome the opportunity to collaborate or discuss potential partnerships. Our app showcases the use of cutting-edge technologies, thoughtful design, and a user-friendly experience.
+
+Our app leverages modern technologies such as Kotlin, MVVM architecture, Jetpack Compose, Hilt, Retrofit, Room, Kotlin Coroutines, Paging library, and Navigation to provide a robust and efficient user experience.
+
+We prioritize creating a visually appealing and user-friendly interface, making our app an excellent showcase of design principles and best practices.
+
 A free application that allows you to share cards and greetings with your loved ones through various messengers such as Facebook, Twitter, Whatsapp, Viber, Telegram, and Pinterest.
 
 The greeting cards app is available on the Google Play
@@ -47,16 +54,3 @@ width="200" hspace="10" vspace="10">](/readme/p-4.jpg)
 width="200" hspace="10" vspace="10">](/readme/p-5.jpg)
 [<img src="/readme/p-6.jpg"
 width="200" hspace="10" vspace="10">](/readme/p-6.jpg)
-
-## Technologies
-
-- Kotlin
-- MVVM
-- Jetpack compose
-- Hilt
-- Retrofit
-- Room
-- Kotlin coroutines
-- Paging library
-- Navigation
-
